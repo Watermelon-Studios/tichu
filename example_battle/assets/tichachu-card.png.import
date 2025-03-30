@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3ax3rjws56gm"
-path.s3tc="res://.godot/imported/pikachu-card.png-e4fa6931c64c9df50a1ebf3a84faf621.s3tc.ctex"
+path.s3tc="res://.godot/imported/tichachu-card.png-b125b3d5a89ac175e07d6adbaaa12b34.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://example_battle/assets/pikachu-card.png"
-dest_files=["res://.godot/imported/pikachu-card.png-e4fa6931c64c9df50a1ebf3a84faf621.s3tc.ctex"]
+source_file="res://example_battle/assets/tichachu-card.png"
+dest_files=["res://.godot/imported/tichachu-card.png-b125b3d5a89ac175e07d6adbaaa12b34.s3tc.ctex"]
 
 [params]
 
